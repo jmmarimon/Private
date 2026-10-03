@@ -1,0 +1,2 @@
+Scratch file for the remote-control base repository.
+Safe to edit. No build, no secrets, no project setup.
